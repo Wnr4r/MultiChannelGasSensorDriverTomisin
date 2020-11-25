@@ -1,0 +1,1 @@
+A library written by me as part of my thesis for Thinnect OU to implement the calibration and gas concentration conversion for MiCS-6184_mulit gas sensor. This implements the polynomial equations derived for gas concentration conversion in the thesis
